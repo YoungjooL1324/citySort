@@ -8,3 +8,4 @@ A few examples of the text files I produced are
 
 Lastly, using a graphics panel, I created an animation which would pinpoint the cities on a globe map in the order they appeared in the text file called in.
 
+the Top30popscreenshot.png is an example, displaying the top 30 cities in the world by population. A small taste of what my program can do
